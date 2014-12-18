@@ -1,7 +1,7 @@
 
-======================
-= Code Contributions =
-======================
+==========================
+= Code Contributions =====
+==========================
 
 To make a contribution to a TianoCore project, follow these steps.
 1. Create a change description in the format specified below to
